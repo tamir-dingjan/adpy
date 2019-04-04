@@ -1,4 +1,4 @@
 # adpy
 AnchorDock - but in Python.
 
-Generated using spyder.
+Generated using spyder, and updated using VSCode
